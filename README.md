@@ -6,7 +6,7 @@
 <h3>Функция between_zeros(float a[N)</h3>
 <img width="428" height="930" alt="between_zeros()" src="https://github.com/user-attachments/assets/e200a4ed-1907-492a-b707-54fca7f94a33" />
 <h3>Функция main()</h3>
-<img width="428" height="930" alt="main()" src="https://github.com/user-attachments/assets/bb10cf2b-fb95-4334-88e6-0ca927a59253" />
+<img width="363" height="650" alt="main()" src="https://github.com/user-attachments/assets/1605272d-a4b4-4741-93a9-96f984f5572e" />
 
 <h2>Код:</h2>
 
